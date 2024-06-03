@@ -1,6 +1,6 @@
 ## 👋  Quick Introduction!
 
-Hi, I’m @JamesBaisus I am a student at Bolton UK University and currently a Second year software engineering students
+Hi, I’m @JamesBaisus I am a student at Bolton UK University and I am at my senior year software engineering students
 
 ## 📫  Conatcts!
 
