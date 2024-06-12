@@ -1,7 +1,6 @@
 ## 👋  Quick Introduction!
 
-Hi, I’m @JamesBaisus I am a student at Bolton UK University and I am at my senior year software engineering students
-
+Hi, I’m @JamesBaisus I am a student at Bolton UK University and I am at my senior year software engineering major graduating at 2025
 ## 📫  Conatcts!
 
 You can contact me through my email for enquiries and collaboration "jcbberches@gmail.com"
