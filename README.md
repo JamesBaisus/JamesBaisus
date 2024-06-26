@@ -13,6 +13,12 @@ You can contact me through my email for enquiries and collaboration "jcbberches@
 - Contributed to the design and implementation of scalable solutions for client projects.
 - Gained hands-on experience with Django Rest Framework for building RESTful APIs and Supabase for database management.
 
+###  🅰️ Software Engineer Intern
+#### ThingLogix, (United States of America, San Jose, California)
+- Worked with a Senior developer in creating a draft Frontend application using Angular.js
+- Worked as part of the L2 team for Debugging issues in the backend, in client ‘s Cloud AWS Services
+
+
 ###  🌐 Freelance Frontend Developer
 #### EHIM, (United Arab Emirates, Ajman)
 - Developed responsive and visually appealing frontend interfaces for the organization's website using React and Tailwind CSS.
